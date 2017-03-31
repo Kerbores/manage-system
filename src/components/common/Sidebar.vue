@@ -24,6 +24,7 @@
         </el-menu>
     </div>
 </template>
+
 <script>
     export default {
         computed:{
@@ -33,6 +34,7 @@
         }
     }
 </script>
+
 <style scoped>
     .sidebar{
         display: block;
